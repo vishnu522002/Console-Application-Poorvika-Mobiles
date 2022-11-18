@@ -1,5 +1,5 @@
 # Console-Application-Poorvika-Mobiles
-Second Project
+Second Project:
 
 Project Title:  Console Application for Poorvika Mobile Shop
 
@@ -26,7 +26,7 @@ Implementation:
 
 	1.PoorvikaMobileDetails				-	It has a variable data of the all classes (Mobile Brand Name, Mobile Model, Specifications, Quantity, Price.
 	2.PoorvikaMobileActions				-	It has a blueprint of methods want to be implemented. (Interface)     
-	3.PoorvikaMobileOperations			-	It has the implemented methods of PoorvikaMobileActions(interface).
+	3.PoorvikaMobileOperations			-	It has the implemented methods of PoorvikaMobileActions.
 	4.App						-	It is the main class for accessing all the classes and also creating thread.
 
 Disadvantages:
