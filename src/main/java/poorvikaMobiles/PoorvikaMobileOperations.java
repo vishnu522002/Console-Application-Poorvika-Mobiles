@@ -407,7 +407,7 @@ public class PoorvikaMobileOperations implements PoorvikaMobileActions, Runnable
 							  +"\n Model: "+data.getMobileModel()
 							  +"\n Specifications: "+data.getMobileSpecifications()
 							  +"\n Price: "+data.getMobilePrice()
-							  +"\n Quantity: "+data.getQuantity()
+							  +"\n Stocks: "+data.getMobileStocks()
 							  +"\n--------------------------------------------------------");	
 		}
 	}
